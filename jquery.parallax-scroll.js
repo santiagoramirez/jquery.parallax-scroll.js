@@ -1,5 +1,5 @@
-/**
- * parallaxScroll v0.1.0
+/*!
+ * parallaxScroll v0.0.0
  * Santiago Ramirez
  */
 jQuery.fn.parallaxScroll = function(options) {
